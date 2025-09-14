@@ -28,7 +28,7 @@ const Home: React.FC = () => {
       <nav className="fixed top-6 left-0 right-0 z-20">
         <div className="mx-auto max-w-6xl px-6">
           <div className="flex items-center justify-between rounded-full border border-white/10 bg-white/5 backdrop-blur-xl px-6 py-3">
-            <div className="text-white/90 font-semibold">React Bits</div>
+            <div className="text-white/90 font-semibold">Usurity AI</div>
             <div className="hidden md:flex items-center gap-8 text-white/80">
               <a href="#" className="hover:text-white">About Us</a>
               <a href="#" className="hover:text-white">Solutions</a>
